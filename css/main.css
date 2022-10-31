@@ -67,3 +67,10 @@
     padding: 1.5rem;
     border-radius: 0 0 0.313rem 0.313rem;
 }
+
+.section-inferior_direita p{
+    line-height: 1.25rem;
+    font-size: 0.875rem;
+    color: white;
+    opacity: 0.75;
+}
