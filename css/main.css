@@ -36,3 +36,34 @@
     color: white;
     opacity: 0.5;
 }
+
+.section-inferior_esquerda div{
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    margin-bottom: 0.25rem;
+}
+
+.section-inferior_esquerda > p{
+    color: white;
+    line-height: 1.625rem;
+    margin-bottom: 1.625rem;
+}
+
+.section-inferior_esquerda button{
+    padding-block: 1rem;
+    width: 100%;
+    color: white;
+    font-size: 1rem;
+    line-height: 1.125rem;
+    border: none;
+    background-color: var(--Bright-yellow);
+    border-radius: 0.313rem;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.0973011)
+}
+
+.section-inferior_direita{
+    background-color: var(--light-cyan);
+    padding: 1.5rem;
+    border-radius: 0 0 0.313rem 0.313rem;
+}
